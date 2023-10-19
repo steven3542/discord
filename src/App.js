@@ -1,9 +1,13 @@
-import logo from "./logo.svg";
-import image45 from "./images/real-back.png";
+import image45 from "./images/poke-logo.png";
 import "./App.css";
 
 function App() {
-  return <div></div>;
+  return (
+    <div className="image-decor">
+      <img src={image45} />
+      <h1>@pokemoncardsripstcglive</h1>
+    </div>
+  );
 }
 
 export default App;
