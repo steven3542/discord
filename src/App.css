@@ -37,6 +37,6 @@
   }
 }
 
-.clasuda {
-  background: "./images/real-back.png";
+.background {
+  background-image: url("/real-back.png");
 }
