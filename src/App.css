@@ -32,3 +32,25 @@ body {
   width: 200px;
   padding-left: 800px;
 }
+
+.image-decor h1 {
+  color: white;
+  padding-left: 650px;
+  font-weight: 610;
+  size: 20px;
+}
+
+.image-decor .text-bottom {
+  color: white;
+  padding-left: 800px;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.mb-2 {
+  height: 600px !important;
+  width: 700px;
+  padding-left: 865px;
+  padding-top: 20px;
+  font-weight: 200 !important;
+}
